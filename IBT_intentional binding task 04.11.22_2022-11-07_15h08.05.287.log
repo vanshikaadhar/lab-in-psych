@@ -1,0 +1,1009 @@
+6.3907 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+22.5843 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+26.3224 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001D6744950D0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001D67974BE50>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+26.3226 	EXP 	window1: mouseVisible = True
+26.3228 	EXP 	window1: mouseVisible = False
+26.3229 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+26.3230 	EXP 	window1: recordFrameIntervals = False
+26.4879 	EXP 	window1: recordFrameIntervals = True
+26.6710 	EXP 	Screen (0) actual frame rate measured at 60.17Hz
+26.6711 	EXP 	window1: recordFrameIntervals = False
+30.7874 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+30.8013 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, fillColor=array([-1.    ,  0.0039, -1.    ]), fillColorSpace='rgb', fillRGB=array([-1.    ,  0.0039, -1.    ]), interpolate=True, lineColor=array([-1.    ,  0.0039, -1.    ]), lineColorSpace='rgb', lineRGB=array([-1.    ,  0.0039, -1.    ]), lineWidth=1.0, name='polygon_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+31.6412 	EXP 	Sound sound_1 set volume 1.000
+31.9267 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+32.0991 	EXP 	window1: mouseVisible = True
+32.1120 	EXP 	Imported C:/Users/Dell/Documents/ib_cons.xlsx as conditions, 12 conditions, 3 params
+32.1130 	EXP 	Created sequence: random, trialTypes=12, nReps=5, seed=None
+32.1136 	EXP 	New trial (rep=0, index=0): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+32.1297 	EXP 	textbox: autoLog = True
+32.1297 	EXP 	polygon: autoDraw = True
+33.0984 	EXP 	polygon_2: autoDraw = True
+33.1314 	EXP 	polygon: autoDraw = False
+34.7689 	DATA 	Keypress: space
+34.7968 	EXP 	polygon: autoDraw = False
+34.7968 	EXP 	polygon_2: autoDraw = False
+35.5146 	EXP 	text: autoDraw = True
+35.5146 	EXP 	textbox: autoDraw = True
+37.1843 	DATA 	Keypress: 9
+37.8632 	DATA 	Keypress: backspace
+38.3425 	DATA 	Keypress: 8
+38.5054 	DATA 	Keypress: 0
+38.6581 	DATA 	Keypress: 0
+39.7922 	DATA 	Keypress: return
+40.4789 	DATA 	Keypress: backspace
+41.1329 	DATA 	Mouse: Left button down, pos=(927,187)
+41.1424 	EXP 	New trial (rep=0, index=1): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+41.1503 	EXP 	text: autoDraw = False
+41.1503 	EXP 	textbox: autoDraw = False
+41.1503 	EXP 	polygon: autoDraw = True
+41.3624 	DATA 	Mouse:  Left button up, pos=(927,187)
+42.1565 	EXP 	polygon: autoDraw = False
+42.1565 	EXP 	polygon_2: autoDraw = True
+44.8761 	DATA 	Keypress: space
+44.8872 	EXP 	polygon: autoDraw = False
+44.8872 	EXP 	polygon_2: autoDraw = False
+45.8937 	EXP 	text: autoDraw = True
+45.8937 	EXP 	textbox: autoDraw = True
+46.7943 	DATA 	Keypress: 7
+47.2873 	DATA 	Keypress: 0
+47.4688 	DATA 	Keypress: 0
+48.1802 	DATA 	Mouse: Left button down, pos=(927,187)
+48.1837 	EXP 	New trial (rep=0, index=2): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+48.1908 	EXP 	text: autoDraw = False
+48.1908 	EXP 	textbox: autoDraw = False
+48.1908 	EXP 	polygon: autoDraw = True
+48.3556 	DATA 	Mouse:  Left button up, pos=(927,187)
+49.1833 	EXP 	polygon_2: autoDraw = True
+49.1997 	EXP 	polygon: autoDraw = False
+54.3326 	DATA 	Keypress: space
+54.3616 	EXP 	polygon: autoDraw = False
+54.3616 	EXP 	polygon_2: autoDraw = False
+54.7716 	EXP 	text: autoDraw = True
+54.7716 	EXP 	textbox: autoDraw = True
+58.0720 	DATA 	Keypress: 5
+58.2933 	DATA 	Keypress: 0
+58.4677 	DATA 	Keypress: 0
+59.0762 	DATA 	Mouse: Left button down, pos=(927,187)
+59.0798 	EXP 	New trial (rep=0, index=3): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+59.0877 	EXP 	text: autoDraw = False
+59.0877 	EXP 	textbox: autoDraw = False
+59.0877 	EXP 	polygon: autoDraw = True
+59.2127 	DATA 	Mouse:  Left button up, pos=(927,187)
+60.0897 	EXP 	polygon: autoDraw = False
+60.0897 	EXP 	polygon_2: autoDraw = True
+61.1442 	DATA 	Keypress: space
+61.1553 	EXP 	polygon: autoDraw = False
+61.1553 	EXP 	polygon_2: autoDraw = False
+61.5646 	EXP 	text: autoDraw = True
+61.5646 	EXP 	textbox: autoDraw = True
+62.8996 	DATA 	Keypress: 7
+63.3194 	DATA 	Keypress: 0
+63.4772 	DATA 	Keypress: 0
+64.0774 	DATA 	Mouse: Left button down, pos=(927,187)
+64.0807 	EXP 	New trial (rep=0, index=4): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+64.0883 	EXP 	text: autoDraw = False
+64.0883 	EXP 	textbox: autoDraw = False
+64.0883 	EXP 	polygon: autoDraw = True
+64.1739 	DATA 	Mouse:  Left button up, pos=(927,187)
+65.0852 	EXP 	polygon_2: autoDraw = True
+65.1015 	EXP 	polygon: autoDraw = False
+67.0553 	DATA 	Keypress: space
+67.0667 	EXP 	polygon: autoDraw = False
+67.0667 	EXP 	polygon_2: autoDraw = False
+68.0720 	EXP 	text: autoDraw = True
+68.0720 	EXP 	textbox: autoDraw = True
+69.2504 	DATA 	Keypress: 8
+69.6164 	DATA 	Keypress: 0
+69.7678 	DATA 	Keypress: 0
+70.5482 	DATA 	Mouse: Left button down, pos=(927,187)
+70.5567 	EXP 	New trial (rep=0, index=5): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+70.5645 	EXP 	text: autoDraw = False
+70.5645 	EXP 	textbox: autoDraw = False
+70.5645 	EXP 	polygon: autoDraw = True
+70.6518 	DATA 	Mouse:  Left button up, pos=(927,187)
+71.5628 	EXP 	polygon_2: autoDraw = True
+71.5790 	EXP 	polygon: autoDraw = False
+72.4004 	DATA 	Keypress: space
+72.4115 	EXP 	polygon: autoDraw = False
+72.4115 	EXP 	polygon_2: autoDraw = False
+73.4190 	EXP 	text: autoDraw = True
+73.4190 	EXP 	textbox: autoDraw = True
+74.8045 	DATA 	Keypress: 8
+75.3207 	DATA 	Keypress: 0
+75.4748 	DATA 	Keypress: 0
+76.0428 	DATA 	Mouse: Left button down, pos=(927,187)
+76.0466 	EXP 	New trial (rep=0, index=6): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+76.0548 	EXP 	text: autoDraw = False
+76.0548 	EXP 	textbox: autoDraw = False
+76.0548 	EXP 	polygon: autoDraw = True
+76.1301 	DATA 	Mouse:  Left button up, pos=(927,187)
+77.0572 	EXP 	polygon: autoDraw = False
+77.0572 	EXP 	polygon_2: autoDraw = True
+77.7293 	DATA 	Keypress: space
+77.7399 	EXP 	polygon: autoDraw = False
+77.7399 	EXP 	polygon_2: autoDraw = False
+78.1489 	EXP 	text: autoDraw = True
+78.1489 	EXP 	textbox: autoDraw = True
+79.9009 	DATA 	Keypress: 7
+80.6421 	DATA 	Keypress: 5
+80.8447 	DATA 	Keypress: 0
+82.8300 	DATA 	Mouse: Left button down, pos=(927,187)
+82.8389 	EXP 	New trial (rep=0, index=7): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+82.8470 	EXP 	text: autoDraw = False
+82.8470 	EXP 	textbox: autoDraw = False
+82.8470 	EXP 	polygon: autoDraw = True
+83.0566 	DATA 	Mouse:  Left button up, pos=(927,187)
+83.8511 	EXP 	polygon: autoDraw = False
+83.8511 	EXP 	polygon_2: autoDraw = True
+85.1884 	DATA 	Keypress: space
+85.1995 	EXP 	polygon: autoDraw = False
+85.1995 	EXP 	polygon_2: autoDraw = False
+85.9075 	EXP 	text: autoDraw = True
+85.9075 	EXP 	textbox: autoDraw = True
+87.3080 	DATA 	Keypress: 8
+87.5168 	DATA 	Keypress: 0
+87.6783 	DATA 	Keypress: 0
+88.4603 	DATA 	Mouse: Left button down, pos=(927,187)
+88.4689 	EXP 	New trial (rep=0, index=8): {'delay': 0.7, 'freq': 400, 'condition': 'unexp'}
+88.4768 	EXP 	text: autoDraw = False
+88.4768 	EXP 	textbox: autoDraw = False
+88.4768 	EXP 	polygon: autoDraw = True
+88.6513 	DATA 	Mouse:  Left button up, pos=(927,187)
+89.4789 	EXP 	polygon: autoDraw = False
+89.4789 	EXP 	polygon_2: autoDraw = True
+90.3838 	DATA 	Keypress: space
+90.3948 	EXP 	polygon: autoDraw = False
+90.3948 	EXP 	polygon_2: autoDraw = False
+91.4022 	EXP 	text: autoDraw = True
+91.4022 	EXP 	textbox: autoDraw = True
+93.8157 	DATA 	Keypress: 3
+93.9386 	DATA 	Keypress: 0
+94.0766 	DATA 	Keypress: 0
+94.6729 	DATA 	Mouse: Left button down, pos=(927,187)
+94.6813 	EXP 	New trial (rep=0, index=9): {'delay': 0.1, 'freq': 400, 'condition': 'unexp'}
+94.6890 	EXP 	text: autoDraw = False
+94.6890 	EXP 	textbox: autoDraw = False
+94.6890 	EXP 	polygon: autoDraw = True
+94.8464 	DATA 	Mouse:  Left button up, pos=(927,187)
+95.6898 	EXP 	polygon: autoDraw = False
+95.6898 	EXP 	polygon_2: autoDraw = True
+98.0096 	DATA 	Keypress: space
+98.0376 	EXP 	polygon: autoDraw = False
+98.0376 	EXP 	polygon_2: autoDraw = False
+98.4448 	EXP 	text: autoDraw = True
+98.4448 	EXP 	textbox: autoDraw = True
+100.3091 	DATA 	Keypress: 3
+100.4727 	DATA 	Keypress: 0
+100.6230 	DATA 	Keypress: 0
+101.2375 	DATA 	Mouse: Left button down, pos=(927,187)
+101.2456 	EXP 	New trial (rep=0, index=10): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+101.2527 	EXP 	text: autoDraw = False
+101.2527 	EXP 	textbox: autoDraw = False
+101.2527 	EXP 	polygon: autoDraw = True
+101.4742 	DATA 	Mouse:  Left button up, pos=(927,187)
+102.2503 	EXP 	polygon_2: autoDraw = True
+102.2669 	EXP 	polygon: autoDraw = False
+103.7374 	DATA 	Keypress: space
+103.7654 	EXP 	polygon: autoDraw = False
+103.7654 	EXP 	polygon_2: autoDraw = False
+104.4746 	EXP 	text: autoDraw = True
+104.4746 	EXP 	textbox: autoDraw = True
+106.1310 	DATA 	Keypress: 8
+106.6160 	DATA 	Keypress: minus
+107.2034 	DATA 	Keypress: backspace
+107.7976 	DATA 	Keypress: backspace
+108.5736 	DATA 	Keypress: 7
+109.2367 	DATA 	Keypress: backspace
+109.8541 	DATA 	Keypress: 6
+109.9975 	DATA 	Keypress: 5
+110.1802 	DATA 	Keypress: 0
+110.8346 	DATA 	Mouse: Left button down, pos=(928,193)
+110.8428 	EXP 	New trial (rep=0, index=11): {'delay': 0.4, 'freq': 400, 'condition': 'unexp'}
+110.8500 	EXP 	text: autoDraw = False
+110.8500 	EXP 	textbox: autoDraw = False
+110.8500 	EXP 	polygon: autoDraw = True
+110.9973 	DATA 	Mouse:  Left button up, pos=(928,193)
+111.8415 	EXP 	polygon_2: autoDraw = True
+111.8582 	EXP 	polygon: autoDraw = False
+112.1140 	DATA 	Keypress: space
+112.1245 	EXP 	polygon: autoDraw = False
+112.1245 	EXP 	polygon_2: autoDraw = False
+112.8331 	EXP 	text: autoDraw = True
+112.8331 	EXP 	textbox: autoDraw = True
+115.9921 	DATA 	Keypress: 2
+116.3999 	DATA 	Keypress: 5
+116.6011 	DATA 	Keypress: 0
+117.2831 	DATA 	Mouse: Left button down, pos=(922,195)
+117.2924 	EXP 	New trial (rep=1, index=0): {'delay': 0.1, 'freq': 400, 'condition': 'unexp'}
+117.3092 	EXP 	text: autoDraw = False
+117.3092 	EXP 	textbox: autoDraw = False
+117.3092 	EXP 	polygon: autoDraw = True
+117.5084 	DATA 	Mouse:  Left button up, pos=(922,195)
+118.3023 	EXP 	polygon_2: autoDraw = True
+118.3188 	EXP 	polygon: autoDraw = False
+120.0056 	DATA 	Keypress: space
+120.0338 	EXP 	polygon: autoDraw = False
+120.0338 	EXP 	polygon_2: autoDraw = False
+120.4407 	EXP 	text: autoDraw = True
+120.4407 	EXP 	textbox: autoDraw = True
+121.3975 	DATA 	Keypress: 2
+121.6155 	DATA 	Keypress: 0
+121.7649 	DATA 	Keypress: 0
+122.2286 	DATA 	Mouse: Left button down, pos=(922,195)
+122.2367 	EXP 	New trial (rep=1, index=1): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+122.2444 	EXP 	text: autoDraw = False
+122.2444 	EXP 	textbox: autoDraw = False
+122.2444 	EXP 	polygon: autoDraw = True
+122.4198 	DATA 	Mouse:  Left button up, pos=(922,195)
+123.2475 	EXP 	polygon: autoDraw = False
+123.2475 	EXP 	polygon_2: autoDraw = True
+123.6028 	DATA 	Keypress: space
+123.6140 	EXP 	polygon: autoDraw = False
+123.6140 	EXP 	polygon_2: autoDraw = False
+124.6203 	EXP 	text: autoDraw = True
+124.6203 	EXP 	textbox: autoDraw = True
+125.7336 	DATA 	Keypress: 8
+126.1180 	DATA 	Keypress: 0
+126.2749 	DATA 	Keypress: 0
+126.6870 	DATA 	Mouse: Left button down, pos=(922,195)
+126.6956 	EXP 	New trial (rep=1, index=2): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+126.7031 	EXP 	text: autoDraw = False
+126.7031 	EXP 	textbox: autoDraw = False
+126.7031 	EXP 	polygon: autoDraw = True
+126.8752 	DATA 	Mouse:  Left button up, pos=(922,195)
+127.7099 	EXP 	polygon: autoDraw = False
+127.7099 	EXP 	polygon_2: autoDraw = True
+129.5137 	DATA 	Keypress: space
+129.5249 	EXP 	polygon: autoDraw = False
+129.5249 	EXP 	polygon_2: autoDraw = False
+129.9309 	EXP 	text: autoDraw = True
+129.9309 	EXP 	textbox: autoDraw = True
+131.5515 	DATA 	Keypress: 9
+131.7637 	DATA 	Keypress: 0
+131.9072 	DATA 	Keypress: 0
+132.6026 	DATA 	Mouse: Left button down, pos=(922,195)
+132.6111 	EXP 	New trial (rep=1, index=3): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+132.6187 	EXP 	text: autoDraw = False
+132.6187 	EXP 	textbox: autoDraw = False
+132.6187 	EXP 	polygon: autoDraw = True
+132.7603 	DATA 	Mouse:  Left button up, pos=(922,195)
+133.6212 	EXP 	polygon: autoDraw = False
+133.6212 	EXP 	polygon_2: autoDraw = True
+135.9746 	DATA 	Keypress: space
+135.9857 	EXP 	polygon: autoDraw = False
+135.9857 	EXP 	polygon_2: autoDraw = False
+136.3943 	EXP 	text: autoDraw = True
+136.3943 	EXP 	textbox: autoDraw = True
+137.9390 	DATA 	Keypress: 7
+138.4396 	DATA 	Keypress: 0
+138.5970 	DATA 	Keypress: 0
+139.0172 	DATA 	Mouse: Left button down, pos=(910,204)
+139.0253 	EXP 	New trial (rep=1, index=4): {'delay': 0.4, 'freq': 400, 'condition': 'unexp'}
+139.0326 	EXP 	text: autoDraw = False
+139.0326 	EXP 	textbox: autoDraw = False
+139.0326 	EXP 	polygon: autoDraw = True
+139.1709 	DATA 	Mouse:  Left button up, pos=(910,204)
+140.0318 	EXP 	polygon: autoDraw = False
+140.0318 	EXP 	polygon_2: autoDraw = True
+142.5018 	DATA 	Keypress: space
+142.5129 	EXP 	polygon: autoDraw = False
+142.5129 	EXP 	polygon_2: autoDraw = False
+143.2211 	EXP 	text: autoDraw = True
+143.2211 	EXP 	textbox: autoDraw = True
+144.5864 	DATA 	Keypress: 3
+144.8461 	DATA 	Keypress: 0
+144.9934 	DATA 	Keypress: 0
+145.9601 	DATA 	Mouse: Left button down, pos=(882,270)
+145.9676 	EXP 	New trial (rep=1, index=5): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+145.9831 	EXP 	text: autoDraw = False
+145.9831 	EXP 	textbox: autoDraw = False
+145.9831 	EXP 	polygon: autoDraw = True
+146.1979 	DATA 	Mouse:  Left button up, pos=(882,270)
+146.9755 	EXP 	polygon_2: autoDraw = True
+146.9921 	EXP 	polygon: autoDraw = False
+149.2958 	DATA 	Keypress: space
+149.3065 	EXP 	polygon: autoDraw = False
+149.3065 	EXP 	polygon_2: autoDraw = False
+150.0153 	EXP 	text: autoDraw = True
+150.0153 	EXP 	textbox: autoDraw = True
+152.7877 	DATA 	Keypress: 7
+153.6201 	DATA 	Keypress: 9
+153.7735 	DATA 	Keypress: 0
+155.0405 	DATA 	Mouse: Left button down, pos=(880,267)
+155.0440 	EXP 	New trial (rep=1, index=6): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+155.0515 	EXP 	text: autoDraw = False
+155.0515 	EXP 	textbox: autoDraw = False
+155.0515 	EXP 	polygon: autoDraw = True
+155.2652 	DATA 	Mouse:  Left button up, pos=(880,267)
+156.0505 	EXP 	polygon_2: autoDraw = True
+156.0672 	EXP 	polygon: autoDraw = False
+158.1064 	DATA 	Keypress: space
+158.1149 	EXP 	polygon: autoDraw = False
+158.1149 	EXP 	polygon_2: autoDraw = False
+159.1219 	EXP 	text: autoDraw = True
+159.1219 	EXP 	textbox: autoDraw = True
+160.4708 	DATA 	Keypress: 9
+160.7775 	DATA 	Keypress: 0
+160.9559 	DATA 	Keypress: 0
+161.6275 	DATA 	Mouse: Left button down, pos=(880,267)
+161.6359 	EXP 	New trial (rep=1, index=7): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+161.6440 	EXP 	text: autoDraw = False
+161.6440 	EXP 	textbox: autoDraw = False
+161.6440 	EXP 	polygon: autoDraw = True
+161.8670 	DATA 	Mouse:  Left button up, pos=(880,267)
+162.6444 	EXP 	polygon: autoDraw = False
+162.6444 	EXP 	polygon_2: autoDraw = True
+164.0815 	DATA 	Keypress: space
+164.0928 	EXP 	polygon: autoDraw = False
+164.0928 	EXP 	polygon_2: autoDraw = False
+165.1014 	EXP 	text: autoDraw = True
+165.1014 	EXP 	textbox: autoDraw = True
+166.0157 	DATA 	Keypress: 8
+166.3406 	DATA 	Keypress: 0
+166.5087 	DATA 	Keypress: 0
+167.0850 	DATA 	Mouse: Left button down, pos=(880,267)
+167.0932 	EXP 	New trial (rep=1, index=8): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+167.1002 	EXP 	text: autoDraw = False
+167.1002 	EXP 	textbox: autoDraw = False
+167.1002 	EXP 	polygon: autoDraw = True
+167.2281 	DATA 	Mouse:  Left button up, pos=(880,267)
+168.1058 	EXP 	polygon: autoDraw = False
+168.1058 	EXP 	polygon_2: autoDraw = True
+168.9096 	DATA 	Keypress: b
+169.5097 	DATA 	Keypress: space
+169.5210 	EXP 	polygon: autoDraw = False
+169.5210 	EXP 	polygon_2: autoDraw = False
+170.2365 	EXP 	text: autoDraw = True
+170.2365 	EXP 	textbox: autoDraw = True
+171.6119 	DATA 	Keypress: 7
+173.6671 	DATA 	Keypress: 1
+174.4497 	DATA 	Keypress: 0
+175.3259 	DATA 	Mouse: Left button down, pos=(880,267)
+175.3353 	EXP 	New trial (rep=1, index=9): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+175.3436 	EXP 	text: autoDraw = False
+175.3436 	EXP 	textbox: autoDraw = False
+175.3436 	EXP 	polygon: autoDraw = True
+175.5872 	DATA 	Mouse:  Left button up, pos=(880,267)
+176.3479 	EXP 	polygon: autoDraw = False
+176.3479 	EXP 	polygon_2: autoDraw = True
+177.3364 	DATA 	Keypress: space
+177.3472 	EXP 	polygon: autoDraw = False
+177.3472 	EXP 	polygon_2: autoDraw = False
+177.7539 	EXP 	text: autoDraw = True
+177.7539 	EXP 	textbox: autoDraw = True
+179.6422 	DATA 	Keypress: 8
+179.9357 	DATA 	Keypress: 0
+180.2609 	DATA 	Keypress: 0
+181.4134 	DATA 	Mouse: Left button down, pos=(874,251)
+181.4170 	EXP 	New trial (rep=1, index=10): {'delay': 0.7, 'freq': 400, 'condition': 'unexp'}
+181.4248 	EXP 	text: autoDraw = False
+181.4248 	EXP 	textbox: autoDraw = False
+181.4248 	EXP 	polygon: autoDraw = True
+181.6314 	DATA 	Mouse:  Left button up, pos=(874,251)
+182.4256 	EXP 	polygon: autoDraw = False
+182.4256 	EXP 	polygon_2: autoDraw = True
+184.7614 	DATA 	Keypress: space
+184.7901 	EXP 	polygon: autoDraw = False
+184.7901 	EXP 	polygon_2: autoDraw = False
+185.7981 	EXP 	text: autoDraw = True
+185.7981 	EXP 	textbox: autoDraw = True
+186.9427 	DATA 	Keypress: 4
+187.5955 	DATA 	Keypress: 0
+187.8845 	DATA 	Keypress: 0
+188.7169 	DATA 	Mouse: Left button down, pos=(877,244)
+188.7257 	EXP 	New trial (rep=1, index=11): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+188.7336 	EXP 	text: autoDraw = False
+188.7336 	EXP 	textbox: autoDraw = False
+188.7336 	EXP 	polygon: autoDraw = True
+188.9416 	DATA 	Mouse:  Left button up, pos=(877,244)
+189.7355 	EXP 	polygon: autoDraw = False
+189.7355 	EXP 	polygon_2: autoDraw = True
+191.7228 	DATA 	Keypress: space
+191.7337 	EXP 	polygon: autoDraw = False
+191.7337 	EXP 	polygon_2: autoDraw = False
+192.4420 	EXP 	text: autoDraw = True
+192.4420 	EXP 	textbox: autoDraw = True
+194.5420 	DATA 	Keypress: 9
+195.2590 	DATA 	Keypress: backspace
+196.2038 	DATA 	Keypress: 6
+197.3288 	DATA 	Keypress: 8
+197.5273 	DATA 	Keypress: 0
+198.0980 	DATA 	Mouse: Left button down, pos=(874,239)
+198.1014 	EXP 	New trial (rep=2, index=0): {'delay': 0.1, 'freq': 400, 'condition': 'unexp'}
+198.1089 	EXP 	text: autoDraw = False
+198.1089 	EXP 	textbox: autoDraw = False
+198.1089 	EXP 	polygon: autoDraw = True
+198.1996 	DATA 	Mouse:  Left button up, pos=(874,239)
+199.1102 	EXP 	polygon: autoDraw = False
+199.1102 	EXP 	polygon_2: autoDraw = True
+200.5971 	DATA 	Keypress: space
+200.6254 	EXP 	polygon: autoDraw = False
+200.6254 	EXP 	polygon_2: autoDraw = False
+201.0325 	EXP 	text: autoDraw = True
+201.0325 	EXP 	textbox: autoDraw = True
+202.1409 	DATA 	Keypress: 2
+203.0319 	DATA 	Keypress: backspace
+203.6366 	DATA 	Keypress: 3
+204.0355 	DATA 	Keypress: 5
+204.5708 	DATA 	Keypress: 0
+205.2920 	DATA 	Mouse: Left button down, pos=(874,239)
+205.2999 	EXP 	New trial (rep=2, index=1): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+205.3156 	EXP 	text: autoDraw = False
+205.3156 	EXP 	textbox: autoDraw = False
+205.3156 	EXP 	polygon: autoDraw = True
+205.4933 	DATA 	Mouse:  Left button up, pos=(874,239)
+206.3037 	EXP 	polygon_2: autoDraw = True
+206.3200 	EXP 	polygon: autoDraw = False
+207.6576 	DATA 	Keypress: space
+207.6686 	EXP 	polygon: autoDraw = False
+207.6686 	EXP 	polygon_2: autoDraw = False
+208.6796 	EXP 	text: autoDraw = True
+208.6796 	EXP 	textbox: autoDraw = True
+212.3190 	DATA 	Keypress: 8
+212.5364 	DATA 	Keypress: 9
+212.6291 	DATA 	Keypress: 0
+213.8087 	DATA 	Mouse: Left button down, pos=(874,239)
+213.8172 	EXP 	New trial (rep=2, index=2): {'delay': 0.7, 'freq': 400, 'condition': 'unexp'}
+213.8299 	EXP 	text: autoDraw = False
+213.8299 	EXP 	textbox: autoDraw = False
+213.8299 	EXP 	polygon: autoDraw = True
+213.9349 	DATA 	Mouse:  Left button up, pos=(874,239)
+214.8288 	EXP 	polygon_2: autoDraw = True
+214.8454 	EXP 	polygon: autoDraw = False
+216.1338 	DATA 	Keypress: space
+216.1444 	EXP 	polygon: autoDraw = False
+216.1444 	EXP 	polygon_2: autoDraw = False
+217.1519 	EXP 	text: autoDraw = True
+217.1519 	EXP 	textbox: autoDraw = True
+219.7131 	DATA 	Keypress: 3
+219.8640 	DATA 	Keypress: 4
+219.9609 	DATA 	Keypress: 5
+220.9820 	DATA 	Mouse: Left button down, pos=(874,239)
+220.9906 	EXP 	New trial (rep=2, index=3): {'delay': 0.4, 'freq': 400, 'condition': 'unexp'}
+220.9976 	EXP 	text: autoDraw = False
+220.9976 	EXP 	textbox: autoDraw = False
+220.9976 	EXP 	polygon: autoDraw = True
+221.1452 	DATA 	Mouse:  Left button up, pos=(874,239)
+222.0056 	EXP 	polygon: autoDraw = False
+222.0056 	EXP 	polygon_2: autoDraw = True
+224.4089 	DATA 	Keypress: space
+224.4197 	EXP 	polygon: autoDraw = False
+224.4197 	EXP 	polygon_2: autoDraw = False
+225.1289 	EXP 	text: autoDraw = True
+225.1289 	EXP 	textbox: autoDraw = True
+227.9144 	DATA 	Keypress: 2
+228.0890 	DATA 	Keypress: 3
+228.1587 	DATA 	Keypress: 4
+229.1355 	DATA 	Mouse: Left button down, pos=(874,239)
+229.1438 	EXP 	New trial (rep=2, index=4): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+229.1516 	EXP 	text: autoDraw = False
+229.1516 	EXP 	textbox: autoDraw = False
+229.1516 	EXP 	polygon: autoDraw = True
+229.2537 	DATA 	Mouse:  Left button up, pos=(874,239)
+230.1478 	EXP 	polygon_2: autoDraw = True
+230.1645 	EXP 	polygon: autoDraw = False
+232.2840 	DATA 	Keypress: space
+232.2957 	EXP 	polygon: autoDraw = False
+232.2957 	EXP 	polygon_2: autoDraw = False
+233.3055 	EXP 	text: autoDraw = True
+233.3055 	EXP 	textbox: autoDraw = True
+235.0716 	DATA 	Keypress: 7
+235.1933 	DATA 	Keypress: 8
+235.2900 	DATA 	Keypress: 9
+236.0360 	DATA 	Mouse: Left button down, pos=(874,239)
+236.0403 	EXP 	New trial (rep=2, index=5): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+236.0481 	EXP 	text: autoDraw = False
+236.0481 	EXP 	textbox: autoDraw = False
+236.0481 	EXP 	polygon: autoDraw = True
+236.2144 	DATA 	Mouse:  Left button up, pos=(874,239)
+237.0415 	EXP 	polygon_2: autoDraw = True
+237.0580 	EXP 	polygon: autoDraw = False
+238.7619 	DATA 	Keypress: space
+238.7730 	EXP 	polygon: autoDraw = False
+238.7730 	EXP 	polygon_2: autoDraw = False
+239.1806 	EXP 	text: autoDraw = True
+239.1806 	EXP 	textbox: autoDraw = True
+242.5429 	DATA 	Keypress: 9
+242.8630 	DATA 	Keypress: 0
+243.2904 	DATA 	Keypress: 9
+244.0790 	DATA 	Mouse: Left button down, pos=(874,239)
+244.0875 	EXP 	New trial (rep=2, index=6): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+244.0949 	EXP 	text: autoDraw = False
+244.0949 	EXP 	textbox: autoDraw = False
+244.0949 	EXP 	polygon: autoDraw = True
+244.2072 	DATA 	Mouse:  Left button up, pos=(874,239)
+245.1005 	EXP 	polygon: autoDraw = False
+245.1005 	EXP 	polygon_2: autoDraw = True
+245.2397 	DATA 	Keypress: space
+245.2503 	EXP 	polygon: autoDraw = False
+245.2503 	EXP 	polygon_2: autoDraw = False
+245.9584 	EXP 	text: autoDraw = True
+245.9584 	EXP 	textbox: autoDraw = True
+246.8162 	DATA 	Keypress: 8
+246.9529 	DATA 	Keypress: 9
+247.0329 	DATA 	Keypress: 0
+247.7421 	DATA 	Mouse: Left button down, pos=(874,239)
+247.7511 	EXP 	New trial (rep=2, index=7): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+247.7589 	EXP 	text: autoDraw = False
+247.7589 	EXP 	textbox: autoDraw = False
+247.7589 	EXP 	polygon: autoDraw = True
+247.8736 	DATA 	Mouse:  Left button up, pos=(874,239)
+248.7638 	EXP 	polygon: autoDraw = False
+248.7638 	EXP 	polygon_2: autoDraw = True
+251.1332 	DATA 	Keypress: space
+251.1615 	EXP 	polygon: autoDraw = False
+251.1615 	EXP 	polygon_2: autoDraw = False
+252.1695 	EXP 	text: autoDraw = True
+252.1695 	EXP 	textbox: autoDraw = True
+252.7857 	DATA 	Keypress: 7
+252.9179 	DATA 	Keypress: 8
+252.9776 	DATA 	Keypress: 9
+254.0463 	DATA 	Mouse: Left button down, pos=(874,239)
+254.0541 	EXP 	New trial (rep=2, index=8): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+254.0669 	EXP 	text: autoDraw = False
+254.0669 	EXP 	textbox: autoDraw = False
+254.0669 	EXP 	polygon: autoDraw = True
+254.1646 	DATA 	Mouse:  Left button up, pos=(874,239)
+255.0582 	EXP 	polygon_2: autoDraw = True
+255.0747 	EXP 	polygon: autoDraw = False
+256.3990 	DATA 	Keypress: space
+256.4065 	EXP 	polygon: autoDraw = False
+256.4065 	EXP 	polygon_2: autoDraw = False
+257.1146 	EXP 	text: autoDraw = True
+257.1146 	EXP 	textbox: autoDraw = True
+258.7893 	DATA 	Keypress: 9
+259.7998 	DATA 	Keypress: 8
+260.1199 	DATA 	Keypress: 0
+260.8461 	DATA 	Mouse: Left button down, pos=(874,239)
+260.8548 	EXP 	New trial (rep=2, index=9): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+260.8623 	EXP 	text: autoDraw = False
+260.8623 	EXP 	textbox: autoDraw = False
+260.8623 	EXP 	polygon: autoDraw = True
+260.9576 	DATA 	Mouse:  Left button up, pos=(874,239)
+261.8684 	EXP 	polygon: autoDraw = False
+261.8684 	EXP 	polygon_2: autoDraw = True
+262.2070 	DATA 	Keypress: space
+262.2177 	EXP 	polygon: autoDraw = False
+262.2177 	EXP 	polygon_2: autoDraw = False
+262.6252 	EXP 	text: autoDraw = True
+262.6252 	EXP 	textbox: autoDraw = True
+263.7039 	DATA 	Keypress: 8
+263.8224 	DATA 	Keypress: 9
+263.9043 	DATA 	Keypress: 0
+264.6445 	DATA 	Mouse: Left button down, pos=(874,239)
+264.6524 	EXP 	New trial (rep=2, index=10): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+264.6598 	EXP 	text: autoDraw = False
+264.6598 	EXP 	textbox: autoDraw = False
+264.6598 	EXP 	polygon: autoDraw = True
+264.7706 	DATA 	Mouse:  Left button up, pos=(874,239)
+265.6646 	EXP 	polygon: autoDraw = False
+265.6646 	EXP 	polygon_2: autoDraw = True
+267.5511 	DATA 	Keypress: n
+268.0181 	DATA 	Keypress: space
+268.0294 	EXP 	polygon: autoDraw = False
+268.0294 	EXP 	polygon_2: autoDraw = False
+268.4373 	EXP 	text: autoDraw = True
+268.4373 	EXP 	textbox: autoDraw = True
+270.1794 	DATA 	Keypress: 8
+270.4364 	DATA 	Keypress: 9
+270.6531 	DATA 	Keypress: 0
+271.4016 	DATA 	Mouse: Left button down, pos=(874,239)
+271.4105 	EXP 	New trial (rep=2, index=11): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+271.4187 	EXP 	text: autoDraw = False
+271.4187 	EXP 	textbox: autoDraw = False
+271.4187 	EXP 	polygon: autoDraw = True
+271.5311 	DATA 	Mouse:  Left button up, pos=(874,239)
+272.4253 	EXP 	polygon: autoDraw = False
+272.4253 	EXP 	polygon_2: autoDraw = True
+274.1288 	DATA 	Keypress: space
+274.1400 	EXP 	polygon: autoDraw = False
+274.1400 	EXP 	polygon_2: autoDraw = False
+274.8472 	EXP 	text: autoDraw = True
+274.8472 	EXP 	textbox: autoDraw = True
+277.6949 	DATA 	Keypress: 9
+278.5403 	DATA 	Keypress: 9
+278.8387 	DATA 	Keypress: 0
+279.9112 	DATA 	Mouse: Left button down, pos=(874,239)
+279.9201 	EXP 	New trial (rep=3, index=0): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+279.9281 	EXP 	text: autoDraw = False
+279.9281 	EXP 	textbox: autoDraw = False
+279.9281 	EXP 	polygon: autoDraw = True
+280.0566 	DATA 	Mouse:  Left button up, pos=(874,239)
+280.9339 	EXP 	polygon: autoDraw = False
+280.9339 	EXP 	polygon_2: autoDraw = True
+283.4032 	DATA 	Keypress: space
+283.4314 	EXP 	polygon: autoDraw = False
+283.4314 	EXP 	polygon_2: autoDraw = False
+284.4399 	EXP 	text: autoDraw = True
+284.4399 	EXP 	textbox: autoDraw = True
+286.6080 	DATA 	Keypress: 8
+286.6967 	DATA 	Keypress: 9
+286.7839 	DATA 	Keypress: 0
+289.0810 	DATA 	Keypress: backspace
+289.6070 	DATA 	Keypress: backspace
+290.8694 	DATA 	Keypress: 7
+291.1285 	DATA 	Keypress: 8
+292.8603 	DATA 	Mouse: Left button down, pos=(874,239)
+292.8688 	EXP 	New trial (rep=3, index=1): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+292.8763 	EXP 	text: autoDraw = False
+292.8763 	EXP 	textbox: autoDraw = False
+292.8763 	EXP 	polygon: autoDraw = True
+293.0254 	DATA 	Mouse:  Left button up, pos=(874,239)
+293.8716 	EXP 	polygon_2: autoDraw = True
+293.8883 	EXP 	polygon: autoDraw = False
+295.9255 	DATA 	Keypress: space
+295.9363 	EXP 	polygon: autoDraw = False
+295.9363 	EXP 	polygon_2: autoDraw = False
+296.3450 	EXP 	text: autoDraw = True
+296.3450 	EXP 	textbox: autoDraw = True
+297.8390 	DATA 	Keypress: 8
+298.0456 	DATA 	Keypress: 9
+298.2228 	DATA 	Keypress: 0
+299.5590 	DATA 	Keypress: backspace
+299.9783 	DATA 	Keypress: backspace
+300.2144 	DATA 	Keypress: backspace
+300.4224 	DATA 	Keypress: backspace
+301.2017 	DATA 	Keypress: backspace
+302.0699 	DATA 	Keypress: 8
+302.3146 	DATA 	Keypress: 0
+303.1270 	DATA 	Mouse: Left button down, pos=(874,239)
+303.1349 	EXP 	New trial (rep=3, index=2): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+303.1418 	EXP 	text: autoDraw = False
+303.1418 	EXP 	textbox: autoDraw = False
+303.1418 	EXP 	polygon: autoDraw = True
+303.3380 	DATA 	Mouse:  Left button up, pos=(874,239)
+304.1457 	EXP 	polygon: autoDraw = False
+304.1457 	EXP 	polygon_2: autoDraw = True
+305.4836 	DATA 	Keypress: space
+305.4943 	EXP 	polygon: autoDraw = False
+305.4943 	EXP 	polygon_2: autoDraw = False
+306.2035 	EXP 	text: autoDraw = True
+306.2035 	EXP 	textbox: autoDraw = True
+307.9998 	DATA 	Keypress: 9
+308.2405 	DATA 	Keypress: 0
+308.8410 	DATA 	Keypress: 8
+310.5335 	DATA 	Mouse: Left button down, pos=(876,240)
+310.5372 	EXP 	New trial (rep=3, index=3): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+310.5452 	EXP 	text: autoDraw = False
+310.5452 	EXP 	textbox: autoDraw = False
+310.5452 	EXP 	polygon: autoDraw = True
+310.6777 	DATA 	Mouse:  Left button up, pos=(876,240)
+311.5387 	EXP 	polygon_2: autoDraw = True
+311.5552 	EXP 	polygon: autoDraw = False
+312.2442 	DATA 	Keypress: space
+312.2547 	EXP 	polygon: autoDraw = False
+312.2547 	EXP 	polygon_2: autoDraw = False
+312.9634 	EXP 	text: autoDraw = True
+312.9634 	EXP 	textbox: autoDraw = True
+314.1093 	DATA 	Keypress: 7
+314.2498 	DATA 	Keypress: 8
+314.3343 	DATA 	Keypress: 9
+315.2119 	DATA 	Mouse: Left button down, pos=(876,240)
+315.2158 	EXP 	New trial (rep=3, index=4): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+315.2242 	EXP 	text: autoDraw = False
+315.2242 	EXP 	textbox: autoDraw = False
+315.2242 	EXP 	polygon: autoDraw = True
+315.3736 	DATA 	Mouse:  Left button up, pos=(876,240)
+316.2177 	EXP 	polygon_2: autoDraw = True
+316.2346 	EXP 	polygon: autoDraw = False
+317.4039 	DATA 	Mouse: Left button down, pos=(876,240)
+317.6374 	DATA 	Mouse:  Left button up, pos=(876,240)
+318.0881 	DATA 	Keypress: space
+318.0992 	EXP 	polygon: autoDraw = False
+318.0992 	EXP 	polygon_2: autoDraw = False
+318.5076 	EXP 	text: autoDraw = True
+318.5076 	EXP 	textbox: autoDraw = True
+319.2815 	DATA 	Keypress: 8
+319.5403 	DATA 	Keypress: 9
+319.7221 	DATA 	Keypress: 0
+320.3648 	DATA 	Mouse: Left button down, pos=(876,240)
+320.3724 	EXP 	New trial (rep=3, index=5): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+320.3796 	EXP 	text: autoDraw = False
+320.3796 	EXP 	textbox: autoDraw = False
+320.3796 	EXP 	polygon: autoDraw = True
+320.5016 	DATA 	Mouse:  Left button up, pos=(876,240)
+321.3795 	EXP 	polygon: autoDraw = False
+321.3795 	EXP 	polygon_2: autoDraw = True
+323.1915 	DATA 	Keypress: space
+323.2110 	EXP 	polygon: autoDraw = False
+323.2110 	EXP 	polygon_2: autoDraw = False
+323.6184 	EXP 	text: autoDraw = True
+323.6184 	EXP 	textbox: autoDraw = True
+324.8918 	DATA 	Keypress: 6
+325.0092 	DATA 	Keypress: 7
+325.0945 	DATA 	Keypress: 8
+326.0634 	DATA 	Mouse: Left button down, pos=(876,240)
+326.0713 	EXP 	New trial (rep=3, index=6): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+326.0785 	EXP 	text: autoDraw = False
+326.0785 	EXP 	textbox: autoDraw = False
+326.0785 	EXP 	polygon: autoDraw = True
+326.2296 	DATA 	Mouse:  Left button up, pos=(876,240)
+327.0744 	EXP 	polygon_2: autoDraw = True
+327.0908 	EXP 	polygon: autoDraw = False
+329.4942 	DATA 	Keypress: space
+329.5050 	EXP 	polygon: autoDraw = False
+329.5050 	EXP 	polygon_2: autoDraw = False
+330.2117 	EXP 	text: autoDraw = True
+330.2117 	EXP 	textbox: autoDraw = True
+332.6345 	DATA 	Keypress: 6
+332.7304 	DATA 	Keypress: 7
+332.7761 	DATA 	Keypress: 8
+332.8588 	DATA 	Keypress: 9
+333.7962 	DATA 	Keypress: backspace
+334.4522 	DATA 	Mouse: Left button down, pos=(880,240)
+334.4609 	EXP 	New trial (rep=3, index=7): {'delay': 0.1, 'freq': 400, 'condition': 'unexp'}
+334.4689 	EXP 	text: autoDraw = False
+334.4689 	EXP 	textbox: autoDraw = False
+334.4689 	EXP 	polygon: autoDraw = True
+334.5751 	DATA 	Mouse:  Left button up, pos=(880,240)
+335.4664 	EXP 	polygon_2: autoDraw = True
+335.4830 	EXP 	polygon: autoDraw = False
+352.7558 	DATA 	Keypress: space
+352.7667 	EXP 	polygon: autoDraw = False
+352.7667 	EXP 	polygon_2: autoDraw = False
+353.1753 	EXP 	text: autoDraw = True
+353.1753 	EXP 	textbox: autoDraw = True
+354.8459 	DATA 	Keypress: 1
+354.9483 	DATA 	Keypress: 2
+355.0285 	DATA 	Keypress: 3
+355.9568 	DATA 	Mouse: Left button down, pos=(880,240)
+355.9654 	EXP 	New trial (rep=3, index=8): {'delay': 0.7, 'freq': 400, 'condition': 'unexp'}
+355.9728 	EXP 	text: autoDraw = False
+355.9728 	EXP 	textbox: autoDraw = False
+355.9728 	EXP 	polygon: autoDraw = True
+356.0529 	DATA 	Mouse:  Left button up, pos=(880,240)
+356.9797 	EXP 	polygon: autoDraw = False
+356.9797 	EXP 	polygon_2: autoDraw = True
+358.1674 	DATA 	Keypress: space
+358.1785 	EXP 	polygon: autoDraw = False
+358.1785 	EXP 	polygon_2: autoDraw = False
+359.1875 	EXP 	text: autoDraw = True
+359.1875 	EXP 	textbox: autoDraw = True
+359.8435 	DATA 	Keypress: 2
+359.9571 	DATA 	Keypress: 3
+360.0414 	DATA 	Keypress: 4
+360.8191 	DATA 	Mouse: Left button down, pos=(880,240)
+360.8277 	EXP 	New trial (rep=3, index=9): {'delay': 0.4, 'freq': 400, 'condition': 'unexp'}
+360.8353 	EXP 	text: autoDraw = False
+360.8353 	EXP 	textbox: autoDraw = False
+360.8353 	EXP 	polygon: autoDraw = True
+360.9646 	DATA 	Mouse:  Left button up, pos=(880,240)
+361.8419 	EXP 	polygon: autoDraw = False
+361.8419 	EXP 	polygon_2: autoDraw = True
+362.6473 	DATA 	Keypress: space
+362.6577 	EXP 	polygon: autoDraw = False
+362.6577 	EXP 	polygon_2: autoDraw = False
+363.3647 	EXP 	text: autoDraw = True
+363.3647 	EXP 	textbox: autoDraw = True
+363.8628 	DATA 	Keypress: 3
+363.9871 	DATA 	Keypress: 4
+364.0672 	DATA 	Keypress: 5
+364.8210 	DATA 	Mouse: Left button down, pos=(880,240)
+364.8297 	EXP 	New trial (rep=3, index=10): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+364.8375 	EXP 	text: autoDraw = False
+364.8375 	EXP 	textbox: autoDraw = False
+364.8375 	EXP 	polygon: autoDraw = True
+364.9604 	DATA 	Mouse:  Left button up, pos=(880,240)
+365.8381 	EXP 	polygon: autoDraw = False
+365.8381 	EXP 	polygon_2: autoDraw = True
+367.1092 	DATA 	Keypress: space
+367.1199 	EXP 	polygon: autoDraw = False
+367.1199 	EXP 	polygon_2: autoDraw = False
+368.1283 	EXP 	text: autoDraw = True
+368.1283 	EXP 	textbox: autoDraw = True
+369.6373 	DATA 	Keypress: 8
+369.8801 	DATA 	Keypress: 0
+370.0169 	DATA 	Keypress: 0
+370.5267 	DATA 	Mouse: Left button down, pos=(880,240)
+370.5306 	EXP 	New trial (rep=3, index=11): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+370.5385 	EXP 	text: autoDraw = False
+370.5385 	EXP 	textbox: autoDraw = False
+370.5385 	EXP 	polygon: autoDraw = True
+370.6745 	DATA 	Mouse:  Left button up, pos=(880,240)
+371.5328 	EXP 	polygon_2: autoDraw = True
+371.5491 	EXP 	polygon: autoDraw = False
+372.9372 	DATA 	Keypress: space
+372.9479 	EXP 	polygon: autoDraw = False
+372.9479 	EXP 	polygon_2: autoDraw = False
+373.9540 	EXP 	text: autoDraw = True
+373.9540 	EXP 	textbox: autoDraw = True
+375.2602 	DATA 	Keypress: 9
+375.5501 	DATA 	Keypress: 0
+375.6948 	DATA 	Keypress: 0
+376.3471 	DATA 	Mouse: Left button down, pos=(880,240)
+376.3553 	EXP 	New trial (rep=4, index=0): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+376.3627 	EXP 	text: autoDraw = False
+376.3627 	EXP 	textbox: autoDraw = False
+376.3627 	EXP 	polygon: autoDraw = True
+376.4832 	DATA 	Mouse:  Left button up, pos=(880,240)
+377.3621 	EXP 	polygon_2: autoDraw = True
+377.3772 	EXP 	polygon: autoDraw = False
+378.5314 	DATA 	Keypress: space
+378.5429 	EXP 	polygon: autoDraw = False
+378.5429 	EXP 	polygon_2: autoDraw = False
+378.9499 	EXP 	text: autoDraw = True
+378.9499 	EXP 	textbox: autoDraw = True
+380.5392 	DATA 	Keypress: 7
+380.6472 	DATA 	Keypress: 8
+380.7593 	DATA 	Keypress: 9
+382.2419 	DATA 	Mouse: Left button down, pos=(880,240)
+382.2457 	EXP 	New trial (rep=4, index=1): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+382.2533 	EXP 	text: autoDraw = False
+382.2533 	EXP 	textbox: autoDraw = False
+382.2533 	EXP 	polygon: autoDraw = True
+382.4612 	DATA 	Mouse:  Left button up, pos=(880,240)
+383.2551 	EXP 	polygon: autoDraw = False
+383.2551 	EXP 	polygon_2: autoDraw = True
+384.9426 	DATA 	Keypress: space
+384.9539 	EXP 	polygon: autoDraw = False
+384.9539 	EXP 	polygon_2: autoDraw = False
+385.9605 	EXP 	text: autoDraw = True
+385.9605 	EXP 	textbox: autoDraw = True
+387.0079 	DATA 	Keypress: 8
+387.2481 	DATA 	Keypress: 0
+387.4006 	DATA 	Keypress: 0
+387.8684 	DATA 	Mouse: Left button down, pos=(880,240)
+387.8768 	EXP 	New trial (rep=4, index=2): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+387.8844 	EXP 	text: autoDraw = False
+387.8844 	EXP 	textbox: autoDraw = False
+387.8844 	EXP 	polygon: autoDraw = True
+388.0062 	DATA 	Mouse:  Left button up, pos=(880,240)
+388.8833 	EXP 	polygon_2: autoDraw = True
+388.8998 	EXP 	polygon: autoDraw = False
+391.5197 	DATA 	Keypress: space
+391.5304 	EXP 	polygon: autoDraw = False
+391.5304 	EXP 	polygon_2: autoDraw = False
+392.2402 	EXP 	text: autoDraw = True
+392.2402 	EXP 	textbox: autoDraw = True
+393.7530 	DATA 	Keypress: 9
+393.9984 	DATA 	Keypress: 0
+394.1362 	DATA 	Keypress: 0
+394.6163 	DATA 	Mouse: Left button down, pos=(880,240)
+394.6201 	EXP 	New trial (rep=4, index=3): {'delay': 0.7, 'freq': 400, 'condition': 'unexp'}
+394.6279 	EXP 	text: autoDraw = False
+394.6279 	EXP 	textbox: autoDraw = False
+394.6279 	EXP 	polygon: autoDraw = True
+394.7329 	DATA 	Mouse:  Left button up, pos=(880,240)
+395.6269 	EXP 	polygon: autoDraw = False
+395.6269 	EXP 	polygon_2: autoDraw = True
+396.7220 	DATA 	Keypress: space
+396.7273 	EXP 	polygon: autoDraw = False
+396.7273 	EXP 	polygon_2: autoDraw = False
+397.7322 	EXP 	text: autoDraw = True
+397.7322 	EXP 	textbox: autoDraw = True
+399.1141 	DATA 	Keypress: 3
+399.9967 	DATA 	Keypress: 0
+400.1407 	DATA 	Keypress: 0
+401.1369 	DATA 	Mouse: Left button down, pos=(880,240)
+401.1453 	EXP 	New trial (rep=4, index=4): {'delay': 0.4, 'freq': 400, 'condition': 'unexp'}
+401.1530 	EXP 	text: autoDraw = False
+401.1530 	EXP 	textbox: autoDraw = False
+401.1530 	EXP 	polygon: autoDraw = True
+401.2932 	DATA 	Mouse:  Left button up, pos=(880,240)
+402.1541 	EXP 	polygon: autoDraw = False
+402.1541 	EXP 	polygon_2: autoDraw = True
+403.9248 	DATA 	Keypress: space
+403.9358 	EXP 	polygon: autoDraw = False
+403.9358 	EXP 	polygon_2: autoDraw = False
+404.6518 	EXP 	text: autoDraw = True
+404.6518 	EXP 	textbox: autoDraw = True
+406.3353 	DATA 	Keypress: 2
+407.3276 	DATA 	Keypress: 5
+407.7875 	DATA 	Keypress: 0
+408.2957 	DATA 	Mouse: Left button down, pos=(880,241)
+408.3043 	EXP 	New trial (rep=4, index=5): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+408.3114 	EXP 	text: autoDraw = False
+408.3114 	EXP 	textbox: autoDraw = False
+408.3114 	EXP 	polygon: autoDraw = True
+408.4532 	DATA 	Mouse:  Left button up, pos=(880,241)
+409.3141 	EXP 	polygon: autoDraw = False
+409.3141 	EXP 	polygon_2: autoDraw = True
+411.9009 	DATA 	Keypress: space
+411.9116 	EXP 	polygon: autoDraw = False
+411.9116 	EXP 	polygon_2: autoDraw = False
+412.3207 	EXP 	text: autoDraw = True
+412.3207 	EXP 	textbox: autoDraw = True
+413.5763 	DATA 	Keypress: 3
+414.3406 	DATA 	Keypress: 0
+414.4423 	DATA 	Keypress: 0
+415.0789 	DATA 	Mouse: Left button down, pos=(880,241)
+415.0874 	EXP 	New trial (rep=4, index=6): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+415.0951 	EXP 	text: autoDraw = False
+415.0951 	EXP 	textbox: autoDraw = False
+415.0951 	EXP 	polygon: autoDraw = True
+415.2136 	DATA 	Mouse:  Left button up, pos=(880,241)
+416.0912 	EXP 	polygon_2: autoDraw = True
+416.1078 	EXP 	polygon: autoDraw = False
+419.6432 	DATA 	Keypress: space
+419.6545 	EXP 	polygon: autoDraw = False
+419.6545 	EXP 	polygon_2: autoDraw = False
+420.3607 	EXP 	text: autoDraw = True
+420.3607 	EXP 	textbox: autoDraw = True
+420.9673 	DATA 	Keypress: 4
+421.5013 	DATA 	Keypress: 0
+421.6911 	DATA 	Keypress: 0
+423.1056 	DATA 	Mouse: Left button down, pos=(880,241)
+423.1141 	EXP 	New trial (rep=4, index=7): {'delay': 0.1, 'freq': 1000, 'condition': 'exp'}
+423.1221 	EXP 	text: autoDraw = False
+423.1221 	EXP 	textbox: autoDraw = False
+423.1221 	EXP 	polygon: autoDraw = True
+423.2399 	DATA 	Mouse:  Left button up, pos=(880,241)
+424.1171 	EXP 	polygon_2: autoDraw = True
+424.1338 	EXP 	polygon: autoDraw = False
+427.2032 	DATA 	Keypress: space
+427.2141 	EXP 	polygon: autoDraw = False
+427.2141 	EXP 	polygon_2: autoDraw = False
+427.6197 	EXP 	text: autoDraw = True
+427.6197 	EXP 	textbox: autoDraw = True
+428.0532 	DATA 	Keypress: 4
+428.2657 	DATA 	Keypress: 5
+428.8886 	DATA 	Keypress: 0
+430.1889 	DATA 	Mouse: Left button down, pos=(880,241)
+430.1970 	EXP 	New trial (rep=4, index=8): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+430.2042 	EXP 	text: autoDraw = False
+430.2042 	EXP 	textbox: autoDraw = False
+430.2042 	EXP 	polygon: autoDraw = True
+430.3666 	DATA 	Mouse:  Left button up, pos=(880,241)
+431.2103 	EXP 	polygon: autoDraw = False
+431.2103 	EXP 	polygon_2: autoDraw = True
+432.8806 	DATA 	Keypress: space
+432.9086 	EXP 	polygon: autoDraw = False
+432.9086 	EXP 	polygon_2: autoDraw = False
+433.9149 	EXP 	text: autoDraw = True
+433.9149 	EXP 	textbox: autoDraw = True
+434.6657 	DATA 	Keypress: 5
+435.4908 	DATA 	Keypress: 0
+435.7057 	DATA 	Keypress: 0
+436.4935 	DATA 	Mouse: Left button down, pos=(880,241)
+436.5015 	EXP 	New trial (rep=4, index=9): {'delay': 0.4, 'freq': 1000, 'condition': 'exp'}
+436.5088 	EXP 	text: autoDraw = False
+436.5088 	EXP 	textbox: autoDraw = False
+436.5088 	EXP 	polygon: autoDraw = True
+436.6269 	DATA 	Mouse:  Left button up, pos=(880,241)
+437.5048 	EXP 	polygon_2: autoDraw = True
+437.5209 	EXP 	polygon: autoDraw = False
+440.0076 	DATA 	Keypress: space
+440.0188 	EXP 	polygon: autoDraw = False
+440.0188 	EXP 	polygon_2: autoDraw = False
+440.7241 	EXP 	text: autoDraw = True
+440.7241 	EXP 	textbox: autoDraw = True
+442.9449 	DATA 	Keypress: 4
+443.2419 	DATA 	Keypress: 5
+443.7315 	DATA 	Keypress: 0
+444.8985 	DATA 	Mouse: Left button down, pos=(880,241)
+444.9073 	EXP 	New trial (rep=4, index=10): {'delay': 0.7, 'freq': 1000, 'condition': 'exp'}
+444.9155 	EXP 	text: autoDraw = False
+444.9155 	EXP 	textbox: autoDraw = False
+444.9155 	EXP 	polygon: autoDraw = True
+445.0193 	DATA 	Mouse:  Left button up, pos=(880,241)
+445.9135 	EXP 	polygon_2: autoDraw = True
+445.9298 	EXP 	polygon: autoDraw = False
+450.7974 	DATA 	Keypress: space
+450.8088 	EXP 	polygon: autoDraw = False
+450.8088 	EXP 	polygon_2: autoDraw = False
+451.8149 	EXP 	text: autoDraw = True
+451.8149 	EXP 	textbox: autoDraw = True
+454.9665 	DATA 	Keypress: 7
+455.2816 	DATA 	Keypress: 8
+455.6831 	DATA 	Keypress: 0
+456.6604 	DATA 	Mouse: Right button down, pos=(880,241)
+456.6689 	EXP 	New trial (rep=4, index=11): {'delay': 0.1, 'freq': 400, 'condition': 'unexp'}
+456.6771 	EXP 	text: autoDraw = False
+456.6771 	EXP 	textbox: autoDraw = False
+456.6771 	EXP 	polygon: autoDraw = True
+456.7584 	DATA 	Mouse:  Right button up, pos=(880,241)
+457.6690 	EXP 	polygon_2: autoDraw = True
+457.6855 	EXP 	polygon: autoDraw = False
+458.4068 	DATA 	Keypress: space
+458.4181 	EXP 	polygon: autoDraw = False
+458.4181 	EXP 	polygon_2: autoDraw = False
+458.8253 	EXP 	text: autoDraw = True
+458.8253 	EXP 	textbox: autoDraw = True
+460.2257 	DATA 	Keypress: 2
+460.4272 	DATA 	Keypress: 3
+461.0540 	DATA 	Keypress: 0
+461.9791 	DATA 	Mouse: Left button down, pos=(880,241)
+461.9862 	EXP 	text: autoDraw = False
+461.9862 	EXP 	textbox: autoDraw = False
+463.5022 	EXP 	window1: mouseVisible = True
